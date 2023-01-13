@@ -5,7 +5,7 @@
 <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Passionate about working with users and developing solutions that deliver an amazing user experience. 
 </em></br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Student.png" alt="Woman Student" width="30" height="30" /><em>Mathematics at <a href="http://www.umass.edu">University of Massachusetts, Amherst</a></p>
 
-<img align="right" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" height="auto" width="400" style="border-radius:50%">
+<img align="right" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" height="auto" width="300" style="border-radius:50%">
 
 [![Linkedin: xuelanwu](https://img.shields.io/badge/-xuelanwu-blue?style=flat&?logo=appveyor&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xuelan-wu-ba354a1b0)](https://www.linkedin.com/in/xuelan-wu-ba354a1b0)
 [![Github: xuelanwu](https://img.shields.io/badge/-xuelanwu-black?style=flat&?logo=appveyor&logo=Github&logoColor=white&link=https://www.github.com/xuelanwu)](https://www.github.com/xuelanwu)
