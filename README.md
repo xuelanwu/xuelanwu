@@ -1,4 +1,4 @@
-<h2 align="left"><img src="https://static.wixstatic.com/media/467408_53426c6af4d54b638fb28e71bd1da5d5~mv2.gif" width="60" align="center">Hi :wave:, I'm Xuelan Wu<img src="https://static.wixstatic.com/media/467408_53426c6af4d54b638fb28e71bd1da5d5~mv2.gif" width="60" align="center"></h2>
+<h2 align="left"><img src="https://static.wixstatic.com/media/467408_53426c6af4d54b638fb28e71bd1da5d5~mv2.gif" width="60" align="center">Hi :wave:, I'm Xuelan<img src="https://static.wixstatic.com/media/467408_53426c6af4d54b638fb28e71bd1da5d5~mv2.gif" width="60" align="center"></h2>
 
 <h3>A Full Stack developer with a STEM background</h3>
 
