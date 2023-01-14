@@ -40,6 +40,6 @@ const xuelanWu = () => {
 
 
 
-<img src="https://gifdb.com/images/high/panda-waving-cartoon-sticker-pi4qfklzce0s7zo5.gif" width="60"> <em><b>    I would love to collaborate on a new project!</b> :)</em>
+<img src="https://media2.giphy.com/media/a8yQ78qONgObZ8nJHC/giphy.gif" width="60"> <em><b>    I would love to collaborate on a new project!</b> :)</em>
 
 ---
