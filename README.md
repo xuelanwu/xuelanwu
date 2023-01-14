@@ -1,6 +1,6 @@
 <h2 align="left"><img src="https://static.wixstatic.com/media/467408_53426c6af4d54b638fb28e71bd1da5d5~mv2.gif" width="60" align="center">Hi :wave:, I'm Xuelan<img src="https://static.wixstatic.com/media/467408_53426c6af4d54b638fb28e71bd1da5d5~mv2.gif" width="60" align="center"></h2>
 
-<h3>A Full Stack developer with a STEM background</h3>
+<h3>A Full Stack Software Engineer with a STEM background</h3>
 
 <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Passionate about working with users and developing solutions that deliver an amazing user experience. 
 </em></br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Student.png" alt="Woman Student" width="30" height="30" /><em>Mathematics at <a href="http://www.umass.edu">University of Massachusetts, Amherst</a></p>
