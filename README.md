@@ -24,7 +24,7 @@
 
 ```javascript
 const xuelanWu = () => {
-  👩 const pronouns = "she" || "her"
+  👒 const pronouns = "she" || "her"
   📗 const learning = ["Data Structures", "Algorithms"]
   💚 const love = {
        family: ["Mom", "Dad"],
