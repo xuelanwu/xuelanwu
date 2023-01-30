@@ -3,7 +3,8 @@
  * @return {number}
  */
 var pivotIndex = function(nums) {
-    
+    if(nums.length === 1) return 0
+       
     const totalSum = nums.reduce((acc,cur)=>acc+cur)
     let leftSum = 0
     
