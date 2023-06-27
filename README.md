@@ -20,20 +20,7 @@
 
 
 
-### <img src="https://cliply.co/wp-content/uploads/2021/09/142109670_SAD_CAT_400.gif" width="60" align="center">    A little more about me...  
 
-```javascript
-const xuelanWu = () => {
-  👒 const pronouns = "she" || "her"
-  📗 const learning = ["Data Structures", "Algorithms"]
-  💚 const love = {
-       family: ["Mom", "Dad"],
-       dog: "Cedar",
-       cats: ["KK", "Eva"]
-       }
-  🏡 const funFact = "I did a huge house renovation by myself!"
-}
-```
 
 
 
